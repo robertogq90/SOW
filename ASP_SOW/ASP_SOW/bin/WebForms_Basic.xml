@@ -888,6 +888,78 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:ASP_SOW.wfPage1._txtNameOfPatient">
+<summary>
+txtNameOfPatient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientDOB">
+<summary>
+txtPatientDOB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatienPhone">
+<summary>
+txtPatienPhone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientAge">
+<summary>
+txtPatientAge control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientGender">
+<summary>
+txtPatientGender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientRace">
+<summary>
+txtPatientRace control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientDateExam">
+<summary>
+txtPatientDateExam control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtPatientDateDischarge">
+<summary>
+txtPatientDateDischarge control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:ASP_SOW.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.
