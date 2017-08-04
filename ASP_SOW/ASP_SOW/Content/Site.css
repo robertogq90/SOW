@@ -1,0 +1,1970 @@
+﻿@charset "utf-8";
+/* Global Declaration */
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    outline: none;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    font: 14px "Arimo";
+}
+
+/*Contents of the page*/
+#Wrapper {
+    width: 990px;
+    margin: 0px auto;
+}
+
+.formArea {
+    width: 890px;
+    float: left;
+    padding: 50px;
+    background: #fbfdfe;
+    border: 1px solid #e0edf9;
+}
+
+h1 {
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 15px;
+    padding: 10px 0px 5px 10px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.clear {
+    clear: both;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.floatNone {
+    float: none;
+}
+
+.labelTxt {
+    width: 880px;
+    padding: 10px 0px 10px;
+    clear: both;
+    float: left;
+}
+
+.cssTxt {
+    margin: 0px;
+    padding: 0px;
+    height: 28px;
+    width: 443px;
+    border-style: none;
+    background-color: transparent;
+}
+
+/*.ss {
+    width: 500px;
+    float: right;
+    background-image: url('images/DiagramA.png');
+    background-repeat: no-repeat;
+    height: 791px;
+}*/
+
+
+
+/* Start css for pages 11 to 25 */
+.anterior_view {
+    width: 211px;
+    float: left;
+    background-image: url('/images/DiagramA.png');
+    background-repeat: no-repeat;
+    height: 494px;
+}
+
+    .anterior_view input {
+        margin: 0px;
+        padding: 0px;
+        height: 11.0px;
+        width: 211px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.posterior_view {
+    width: 211px;
+    float: left;
+    background-image: url('/images/DiagramB.png');
+    background-repeat: no-repeat;
+    height: 494px;
+}
+
+    .posterior_view input {
+        margin: 0px;
+        padding: 0px;
+        height: 11.0px;
+        width: 211px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.lateral_view {
+    width: 396px;
+    float: right;
+    background-image: url('imgs/FEMALE_LATERAL_VIEW_LEFT.png');
+    background-repeat: no-repeat;
+    height: 727px;
+}
+
+    .lateral_view input {
+        margin: 0px;
+        padding: 0px;
+        height: 28.2px;
+        width: 396px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.lateral_Rview {
+    width: 386px;
+    float: right;
+    background-image: url('imgs/FEMALE_LATERAL_VIEW_Right.png');
+    background-repeat: no-repeat;
+    height: 744px;
+}
+
+    .lateral_Rview input {
+        margin: 0px;
+        padding: 0px;
+        height: 35.2px;
+        width: 386px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.genitalia_External {
+    width: 350px;
+    float: left;
+    background-image: url('/images/DiagramG.png');
+    background-repeat: no-repeat;
+    height: 230px;
+}
+
+    .genitalia_External input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 350px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.genitalia_Vulva {
+    margin: 0px;
+    width: 350px;
+    float: left;
+    background-image: url('/images/DiagramH.png');
+    background-repeat: no-repeat;
+    height: 230px;
+}
+
+    .genitalia_Vulva input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 350px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.genitalia_Internal {
+    width: 190px;
+    float: left;
+    background-image: url('/images/DiagramI.png');
+    background-repeat: no-repeat;
+    height: 219px;
+}
+
+    .genitalia_Internal input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 190px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_Anterior_View {
+    width: 417px;
+    float: right;
+    background-image: url('imgs/MALE_ANTERIOR_VIEW.png');
+    background-repeat: no-repeat;
+    height: 749px;
+}
+
+    .male_Anterior_View input {
+        margin: 0px;
+        padding: 0px;
+        height: 33.7px;
+        width: 417px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_Posterion_view {
+    width: 417px;
+    float: right;
+    background-image: url('imgs/MALE_POSTERIOR_VIEW.png');
+    background-repeat: no-repeat;
+    height: 749px;
+}
+
+    .male_Posterion_view input {
+        margin: 0px;
+        padding: 0px;
+        height: 35.2px;
+        width: 417px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_Lateral_Rview {
+    width: 417px;
+    float: right;
+    background-image: url('imgs/MALE_LATERAL_VIEW_RIGHT.png');
+    background-repeat: no-repeat;
+    height: 748px;
+}
+
+    .male_Lateral_Rview input {
+        margin: 0px;
+        padding: 0px;
+        height: 33px;
+        width: 417px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_Lateral_view {
+    width: 417px;
+    float: right;
+    background-image: url('imgs/MALE_LATERAL_VIEW_LEFT.png');
+    background-repeat: no-repeat;
+    height: 748px;
+}
+
+    {
+        margin: 0px;
+        padding: 0px;
+        height: 36.5px;
+        width: 417px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_PenisAnus {
+    width: 335px;
+    float: left;
+    background-image: url('/images/DiagramK.png');
+    background-repeat: no-repeat;
+    height: 322px;
+}
+
+    .male_PenisAnus input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 335px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.male_PenisScrotum {
+    margin: 0px;
+    width: 334px;
+    float: left;
+    background-image: url('/images/DiagramL.png');
+    background-repeat: no-repeat;
+    height: 254px;
+}
+
+    .male_PenisScrotum input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 334px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+.male_PenisHeadShaft {
+    margin: 0px ;
+    width: 333px;
+    float: left;
+    background-image: url('/images/DiagramM.png');
+    background-repeat: no-repeat;
+    height: 260px;
+}
+
+    .male_PenisHeadShaft input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 333px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+
+.female_rectum {
+    width: 351px;
+    float: left;
+    background-image:  url('/images/DiagramJ.png');
+    background-repeat: no-repeat;
+    height: 216px;
+}
+
+    .female_rectum {
+    width: 351px;
+    float: left;
+    background-image:  url('/images/DiagramJ.png');
+    background-repeat: no-repeat;
+    height: 216px;
+}
+
+    .female_rectum input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 351px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+   .male_rectum {
+    width: 351px;
+    float: left;
+    background-image:  url('/images/DiagramN.png');
+    background-repeat: no-repeat;
+    height: 216px;
+}
+
+    .male_rectum input {
+        margin: 0px;
+        padding: 0px;
+        height: 11px;
+        width: 351px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.anal_Canal {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/anal_canal.png');
+    background-repeat: no-repeat;
+    height: 124px;
+}
+
+    .anal_Canal input {
+        margin: 0px;
+        padding: 0px;
+        height: 23px;
+        width: 200px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.anus {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/anus.png');
+    background-repeat: no-repeat;
+    height: 73px;
+}
+
+    .anus input {
+        margin: 0px;
+        padding: 0px;
+        height: 16.6px;
+        width: 200px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.anal_Rec {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/MF_Anal_rec.png');
+    background-repeat: no-repeat;
+    height: 371px;
+}
+
+    .anal_Rec input {
+        margin: 0px;
+        padding: 0px;
+        height: 24.6px;
+        width: 200px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.head_1, .head_2, .head_3, .head_4 {
+    width: 220px;
+    float: left;
+    background-repeat: no-repeat;
+    height: 280px;
+}
+
+.head_5 {
+    width: 200px;
+    float: right;
+    background-repeat: no-repeat;
+    height: 160px;
+}
+
+.head_1 {
+    background-image: url('/images/DiagramC.png');
+}
+
+.head_2 {
+    background-image: url('/images/DiagramD.png');
+}
+
+.head_3 {
+    background-image: url('/images/DiagramE.png');
+}
+
+.head_4 {
+    background-image: url('/images/DiagramF.png');
+}
+
+.head_5 {
+    background-image: url('imgs/head_5.png');
+}
+
+    .head_1 input, .head_2 input, .head_3 input, .head_4 input, .head_5 input {
+        margin: 0px;
+        padding: 0px;
+        height: 15px;
+        width: 220px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.right_eye {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/right_eye.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+.left_eye {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/left_eye.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+.right_Innereye {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/right_inner_eyelid.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+.left_Innereye {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/left_inner_eyelid.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+.right_Eyelid {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/right_eyelid.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+.left_Eyelid {
+    width: 200px;
+    float: right;
+    background-image: url('imgs/left_eyelid.png');
+    background-repeat: no-repeat;
+    height: 163px;
+}
+
+    .right_eye input, .left_eye input, .right_Eyelid input, .left_Eyelid input {
+        margin: 0px;
+        padding: 0px;
+        height: 30.6px;
+        width: 199px;
+        border-style: none;
+        background-color: transparent;
+        border: 1px solid transparent;
+    }
+
+.right_Innereye input, .left_Innereye input {
+    margin: 0px;
+    padding: 0px;
+    height: 29.5px;
+    width: 199px;
+    border-style: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.mouth_1 {
+    width: 231px;
+    float: right;
+    background-image: url('imgs/mouth_1.png');
+    background-repeat: no-repeat;
+    height: 307px;
+}
+
+.mouth_2 {
+    margin: 20px 0px 0px 0px;
+    width: 231px;
+    float: right;
+    background-image: url('imgs/mouth_2.png');
+    background-repeat: no-repeat;
+    height: 307px;
+}
+
+.mouth_1 input {
+    margin: 0px;
+    padding: 0px;
+    height: 23.7px;
+    width: 231px;
+    border-style: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.mouth_2 input {
+    margin: 0px;
+    padding: 0px;
+    height: 26px;
+    width: 231px;
+    border-style: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+input:focus {
+    background-color: #FFF;
+}
+/* End css for pages 11 to 25 */
+
+
+
+/*controls*/
+input {
+    margin: 0px 5px 10px 0px;
+}
+
+fieldset {
+    width: 850px;
+    border: 1px solid #e0edf9;
+    padding: 20px;
+    background: #fff;
+    margin: 0px 0px 20px 0px;
+}
+
+legend {
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+    text-transform: uppercase;
+}
+
+
+.txtbox, .txtboxLocation, .txtboxSmall {
+    float: left;
+    clear: both;
+    border: 6px solid #F7F9FA;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+    -webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    height: 35px;
+    width: 275px;
+    display: block;
+    padding: 0px 0px 0px 7px;
+}
+
+.txtbox2 {
+    float: left;
+    clear: both;
+    border: 6px solid #F7F9FA;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+    -webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    height: 70px;
+    width: 560px;
+    display: block;
+    padding: 0px 0px 0px 7px;
+}
+
+textarea {
+    float: left;
+    clear: both;
+    /*border: 6px solid #F7F9FA;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;*/
+    -moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+    -webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    display: block;
+    padding: 7px 0px 0px 7px;
+    margin: 0px 0px 10px 0px;
+}
+
+
+.formRow {
+    width: 880px;
+    float: left;
+    padding: 5px 0px 5px 0px;
+}
+
+.formRowPR {
+    width: 880px;
+    padding: 5px 0px 5px 0px;
+}
+
+.formRowPRC {
+    width: 880px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+
+}
+
+.formRowLeft {
+    float: left;
+    width: 440px;
+}
+
+.formRowRight {
+    float: left;
+    width: 440px;
+}
+
+label {
+    float: left;
+    clear: both;    
+    padding: 0px 0px 0px 5px;
+}
+
+
+.button {
+    -moz-box-shadow: inset 0px 1px 2px 0px #cae3fc;
+    -webkit-box-shadow: inset 0px 1px 2px 0px #cae3fc;
+    box-shadow: inset 0px 1px 2px 0px #cae3fc;
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+    background: -moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+    background-color: #79bbff;
+    -webkit-border-top-left-radius: 0px;
+    -moz-border-radius-topleft: 0px;
+    border-top-left-radius: 0px;
+    -webkit-border-top-right-radius: 0px;
+    -moz-border-radius-topright: 0px;
+    border-top-right-radius: 0px;
+    -webkit-border-bottom-right-radius: 0px;
+    -moz-border-radius-bottomright: 0px;
+    border-bottom-right-radius: 0px;
+    -webkit-border-bottom-left-radius: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    border-bottom-left-radius: 0px;
+    text-indent: 0;
+    border: 1px solid #84bbf3;
+    display: inline-block;
+    color: #ffffff;
+    font-family: Arial;
+    font: bold 12px/35px arial;
+    height: 35px;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 1px 0px 0px #287ace;
+    padding: 0px 20px;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+        background: -moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+        background-color: #4197ee;
+    }
+
+    .button:active {
+        position: relative;
+        top: 1px;
+    }
+
+
+/*Page 2*/
+.rowChkTime {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -3px;
+    padding: 0px 5px 0px 0px;
+}
+
+.padding {
+    padding: 0px 0px 10px 0px;
+}
+
+.chkbox {
+    content: "";
+    width: 12px;
+    height: 12px;
+    margin: 0 4px 0 0;
+    border: solid 1px #a8a8a8;
+    line-height: 14px;
+    text-align: center;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    background: #f6f6f6;
+    background: -moz-radial-gradient(#f6f6f6,#dfdfdf);
+    background: -webkit-radial-gradient(#f6f6f6,#dfdfdf);
+    background: -ms-radial-gradient(#f6f6f6,#dfdfdf);
+    background: -o-radial-gradient(#f6f6f6,#dfdfdf);
+    background: radial-gradient(#f6f6f6,#dfdfdf);
+}
+
+/*Page 3*/
+.formActRow {
+    width: 880px;
+    float: left;
+    padding: 5px 0px 5px 0px;
+}
+
+    .formActRow h3 {
+        font-size: 16px;
+        font-weight: bold;
+        padding: 0px 0px 5px 0px;
+    }
+
+.col-1 {
+    width: 250px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+
+.col-2 {
+    width: 50px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-3 {
+    width: 50px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-4 {
+    width: 90px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-5 {
+    width: 70px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-6 {
+    width: 250px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-Merge {
+    width: auto;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+
+.col-Width400 {
+    width: 440px;
+    float: left;
+    padding: 14px 10px 10px 10px;
+}
+.col-Split400 {
+    width: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+
+.col-1 ul {
+    width: 200px;
+    float: left;
+    padding: 0px 0px 0px 15px;
+}
+
+    .col-1 ul li {
+        width: 250px;
+        float: left;
+        padding: 0px 0px 5px 0px;
+    }
+
+    /*VTS DEFINED 11/18/16*/
+     .col-Label50 {
+    width: 50px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label75 {
+    width: 75px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label90 {
+    width: 90px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label100 {
+    width: 100px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label125 {
+    width: 125px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label150 {
+    width: 150px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label175 {
+    width: 175px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label200 {
+    width: 200px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label250 {
+    width: 250px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label300 {
+    width: 300px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Label325 {
+    width: 325px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+       .col-Label350 {
+    width: 350px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label400 {
+    width: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label475 {
+    width: 475px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label500 {
+    width: 500px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Label600 {
+    width: 600px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+}
+     .col-Label700 {
+    width: 700px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+    text-align: left;
+}
+      .col-Radio100 {
+    width: 100px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio125 {
+    width: 125px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio150 {
+    width: 150px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio125 {
+    width: 125px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio150 {
+    width: 150px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio175 {
+    width: 175px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio200 {
+    width: 200px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Radio225 {
+    width: 225px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio250 {
+    width: 250px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Radio300 {
+    width: 300px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Radio350 {
+    width: 350px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+    .col-Radio400 {
+    width: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text50 {
+    width: 50px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+       .col-Text75 {
+    width: 75px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text100 {
+    width: 100px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text125 {
+    width: 125px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text150 {
+    width: 150px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text175 {
+    width: 175px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text200 {
+    width: 200px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text225 {
+    width: 225px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text250 {
+    width: 250px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text300 {
+    width: 300px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+       .col-Text350 {
+    width: 350px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text400 {
+    width: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+   .col-Text880 {
+    width: 880px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+  
+    .col-Signature {
+    width: 700px;
+    float: left;
+    padding: 0px 0px 0px 7px;
+
+}
+    .cnvsignature {
+    float: left;
+    clear: both;
+    height: 60px;
+    width: 450px;
+    border-style: solid ;
+    border-width: thin;
+}
+      .col-SigButton {
+    width: 130px;
+    float: left;
+    padding: 25px 0px 0px 15px;
+}
+     .col-InitButton {
+    width: 55px;
+    float: left;
+    padding: 0px 0px 0px 10px;
+}
+       .col-Initial {
+    width: 200px;
+    float: left;
+    padding: 0px 0px 0px 10px;
+  
+}
+  
+      .col-InitialNum {
+    width: 15px;
+     height: 60px;
+    float: left;
+    padding: 20px 0px 0px 10px;
+}
+      .cnvinitial {
+    float: left;
+    clear: both;
+    height: 60px;
+    width: 60px;
+  
+}
+      .col-Text500 {
+    width: 500px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+      .col-Text600 {
+    width: 600px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+     .col-Check50 {
+    width: 50px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check30 {
+    width: 30px;
+    float: left;
+    padding: 3px 0px 0px 20px;
+}
+      .col-Check75 {
+    width: 75px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check100 {
+    width: 100px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check125 {
+    width: 125px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check150 {
+    width: 150px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check175 {
+    width: 175px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+      .col-Check200 {
+    width: 200px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+     .col-Check225 {
+    width: 225px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+     .col-Check250 {
+    width: 250px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+     .col-Check400 {
+    width: 400px;
+    float: left;
+    padding: 3px 0px 0px 0px;
+}
+       .col-Drop50 {
+    width: 50px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+       .col-Drop75 {
+    width: 75px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+      .col-Drop100 {
+    width: 100px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+      .col-Drop125 {
+    width: 125px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+      .col-Drop150 {
+    width: 150px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+      .col-Drop175 {
+    width: 175px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+      .col-Drop200 {
+    width: 200px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+     .col-Drop225 {
+    width: 225px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+
+    .col-Drop250 {
+    width: 250px;
+    float: left;
+    padding: 2px 0px 0px 0px;
+}
+  /*VTS DEFINED 11/18/16*/
+
+
+     .col-Item400 {
+    width: 400px;
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.textAreaDesc {
+    width: 225px;
+    height: 50px;
+    float: left;
+}
+
+.txtboxLocation {
+    width: 225px;
+}
+
+.rowChk {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px 5px 0px 0px;
+}
+
+.rowChkfield {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    top: -3px;
+    padding: 0px 5px 0px 0px;
+}
+
+
+/*Page 4*/
+.textAreaDescSmall {
+    width: 165px;
+    height: 20px;
+    float: left;
+    clear: none;
+    padding: 0px 0px 0px 0px;
+    margin: -7px 0px 0px 0px;
+}
+
+.textAreaDescLarge {
+    width: 400px;
+    height: 20px;
+    float: left;
+    clear: none;
+    padding: 0px 0px 0px 0px;
+    margin: -7px 0px 0px 0px;
+}
+
+.spanText {
+    width: 70px;
+    float: left;
+}
+
+.spanTextLarge {
+    width: 120px;
+    float: left;
+}
+
+.spanTextAuto {
+    width: auto;
+    float: left;
+}
+
+.txtboxSmall {
+    width: 160px;
+    height: 16px;
+    float: left;
+    clear: none;
+    margin: -7px 0px 2px 0px;
+}
+
+.col-2 input {
+    padding: 0px 0px 0px 0px;
+}
+
+.clearfix {
+    clear: both;
+    height: 5px;
+}
+
+.blankArea {
+    width: 100px;
+    height: 18px;
+    display: block;
+    clear: both;
+}
+
+.legendRight {
+    width: 450px;
+    float: right;
+}
+
+
+/* Page 10 */
+.textAreaNotes {
+    float: left;
+    clear: both;
+    border: 6px solid #F7F9FA;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+    -webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95A2A7 inset;
+    height: 700px;
+    width: 83 0px;
+    display: block;
+    padding: 7px 0px 0px 7px;
+    margin: 0px 0px 10px 0px;
+}
+
+
+/* Page 11 */
+#ViewTable {
+    width: 890px;
+    float: left;
+    padding: 50px;
+    background: #fbfdfe;
+    border: 1px solid #e0edf9;
+    margin: 0px 0px 20px 0px;
+}
+
+    #ViewTable .left {
+        width: 300px;
+        float: left;
+    }
+
+    #ViewTable .right {
+        width: 490px;
+        float: right;
+    }
+
+    #ViewTable h1 {
+        font-size: 22px;
+    }
+
+    #ViewTable .right img {
+        border: 6px solid #FBFBFB;
+        box-shadow: 0px 0px 7px 0px #dcdcdc;
+        float: left;
+        clear: both;
+        margin: 0px 0px 20px 0px;
+    }
+
+#GenderData {
+    width: 300px;
+    float: left;
+    margin: 0px 0px 20px 0px;
+}
+
+    #GenderData h2 {
+        font-size: 16px;
+        background: #dde4ff;
+    }
+
+    #GenderData .GenderDataRow {
+        width: 300px;
+        float: left;
+        border-bottom: 1px solid #DBDBDB;
+    }
+
+        #GenderData .GenderDataRow .rowLeft {
+            width: 50px;
+            float: left;
+            padding: 10px 0px 10px 0px;
+        }
+
+        #GenderData .GenderDataRow .rowRight {
+            width: 200px;
+            float: left;
+            padding: 10px 0px 10px 10px;
+            border-left: 1px solid #DBDBDB;
+        }
+
+.notesFieldset {
+    margin: 30px 0px 0px 0px;
+}
+
+.eyeRow {
+    width: 490px;
+    float: left;
+}
+
+    .eyeRow .imgBox {
+        width: 210px;
+        float: left;
+        margin: 0px 30px 10px 0px;
+    }
+
+    .eyeRow .caption {
+        width: 210px;
+        float: left;
+        text-align: center;
+        font-weight: bold;
+        padding: 0px 0px 10px 0px;
+    }
+
+    .eyeRow .imgitself {
+        width: 200px;
+        float: left;
+        text-align: center;
+    }
+
+.makeleft {
+    float: left;
+    width: 400px;
+}
+
+    .makeleft tr {
+        float: left;
+    }
+
+        .makeleft tr td input {
+            float: left;
+            margin: 0;
+        }
+
+        .makeleft tr td label {
+            float: left;
+            clear: none !important;
+            margin: -2px 8px 0 0;
+        }
+
+.lft .inputChkBox > label {
+    clear: none !important;
+    margin: 1px 0 0;
+    padding: 0 !important;
+    width: 100%;
+    float: none !important;
+}
+
+.tblContaoner .makeleft {
+    width: 135px;
+}
+
+.lft .inputChkBox > input {
+    /*float: left;
+    margin: 0 0 0 9px;*/
+}
+
+.col-1.lft > ul li {
+    height: 23px;
+}
+
+.tblContaoner {
+    margin: 9px 0 0;
+}
+
+    .tblContaoner .tr_p {
+        float: left;
+        height: 28px !important;
+        padding: 0 !important;
+        width: 517px;
+    }
+
+    .tblContaoner .first {
+        float: left;
+        width: 166px;
+    }
+
+    .tblContaoner .first1 {
+        height: 20px !important;
+    }
+
+        .tblContaoner .first1 input {
+            border: 1px solid #e2e2e2;
+            height: 17px !important;
+            margin: 0;
+            padding: 0 0 4px 3px !important;
+        }
+
+.listLeft {
+}
+
+    .listLeft input {
+        float: left;
+        margin: 0;
+    }
+
+    .listLeft label {
+        float: left;
+        margin: -15px 0 7px 15px;
+    }
+
+
+
+.page_5 {
+}
+
+    .page_5 .col-1 {
+        width: 254px;
+    }
+
+    .page_5 .col-3 {
+        margin: 8px 0 0;
+        padding: 0;
+        width: 122px !important;
+    }
+
+    .page_5 .col-7 {
+        float: left;
+        margin: 10px 0 0;
+    }
+
+    .page_5 .col-6 {
+        margin: 9px 0 0;
+        padding: 0;
+        width: 284px;
+    }
+
+        .page_5 .col-6 textarea {
+            margin: -23px 0 0 44px;
+        }
+
+.et {
+    width: 203px;
+    clear: none;
+    float: none;
+    margin: -19px 0px 0px 37px;
+}
+
+.Spouse {
+    float: left;
+    margin: 22px 0 0;
+    width: 261px;
+}
+
+    .Spouse .makeleft {
+        width: 149px;
+        margin: 0 -4px 0 -6px;
+    }
+
+    .Spouse span {
+        float: left;
+        margin: 0 0 0 -7px;
+        width: 5px;
+    }
+
+.Partner {
+    float: left;
+    width: 200px;
+}
+
+    .Partner .makeleft {
+        width: 149px;
+        margin: 0 -4px 0 -6px;
+    }
+
+    .Partner span {
+        float: left;
+        margin: 0 0 0 -7px;
+        width: 5px;
+    }
+
+.textAreaNotesMed {
+    border: 6px solid #f7f9fa;
+    border-radius: 3px;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+    clear: both;
+    display: block;
+    float: left;
+    height: 110px;
+    width: 774px;
+    margin: 0 0 10px;
+    padding: 7px 0 0 7px;
+}
+
+.small .col-2 {
+    padding: 0 !important;
+    width: 165px;
+}
+
+.formRowLeft.small {
+    width: 884px;
+}
+
+.small .col-2 {
+    padding: 0 !important;
+    width: 153px;
+}
+
+    .small .col-2 > label {
+        clear: none;
+        float: left;
+        width: 100%;
+    }
+
+    .small .col-2 > span {
+        float: left;
+        margin: 21px 4px 0 2px;
+    }
+
+.small .txtbox {
+    clear: none;
+    float: left;
+    width: 120px;
+}
+
+ul.bg li {
+    margin: 6px 0px;
+}
+
+
+.col-6 ul.bg li {
+    float: left;
+    height: 23px;
+    width: 428px;
+}
+
+ul.bg li .txtbox {
+    clear: none;
+    float: left;
+    height: 22px;
+    margin-top: -5px;
+    width: 234px;
+}
+
+.bg table {
+    margin: 6px 0px;
+}
+
+.notes .formRowLeft {
+    width: 200px;
+}
+
+    .notes .formRowLeft .txtbox {
+        width: 178px;
+    }
+
+.notes .formRowRight {
+    width: 674px;
+}
+
+    .notes .formRowRight .txtbox {
+        width: 560px;
+    }
+
+.page_26 th {
+    text-align: left;
+}
+
+.Fingernail {
+    margin: 3px 0 0 47px;
+}
+
+    .Fingernail span:first-child {
+        float: left;
+        width: 210px !important;
+    }
+
+    .Fingernail span:last-child {
+        float: left;
+    }
+
+    .Fingernail li {
+        clear: both;
+    }
+
+
+
+.upper {
+    clear: both;
+    float: left;
+    height: 39px;
+    margin: -17px -304px 11px 44px;
+    width: 525px;
+}
+
+    .upper .td1 {
+        float: left;
+        margin: 12px 0 0;
+        width: 214px;
+    }
+
+    .upper .td2 {
+        float: left;
+        margin: 12px 0 0;
+        width: 139px;
+    }
+
+.BodymapFont {
+    font-size: 12pt;
+    font-family: "courrier new", Monospace;
+}
+
+
+/*General Form Styles*/
+.generalCol {
+    width: 50%;
+    float: left;
+}
+
+.largeMultilineTextBox {
+    width: 400px;
+    }
+
+.xlargeMultilineTextBox {
+    width:800px;
+    height:100px;
+}
+
+.smallTextBox {
+   width: 90px;
+   height:20px;
+}
+
+.singleCol {
+    width: 800px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+
+.chkboxList input{
+float:left;
+
+}
+
+.chkboxList label {
+    margin-top: -24px;
+    margin-left: 15px;
+}
+
+.chkboxList td {
+    padding-right:10px;
+    
+}
+
+
+/*SART 472*/
+#formSART472 .col-4 {
+    width: 20%;
+    float: left;
+    padding: 10px 10px 10px 20px;
+}
+
+#formSART472 .col-5 {
+    width: 15%;
+    float: left;
+    padding: 10px 10px 10px 20px;
+}
+
+
+#formSART472 .chkbox {
+    float: left;
+    width: 400px;
+}
+
+#formSART472 .largeMultilineTextBox {
+    width: 600px;
+    height: 73px;
+}
+
+#formSART472 .smallTextBox {
+    width:80px;
+}
+
+
+#formSART472 .makeleft {
+    float: left;
+    width: 400px;
+}
+
+    #formSART472 .makeleft tr {
+        float: left;
+    }
+
+        #formSART472 .makeleft tr td input {
+            float: left;
+            margin: 0;
+        }
+
+        #formSART472 .makeleft tr td label {
+            float: left;
+            clear: none !important;
+            margin: -2px 8px 0 0;
+        }
+
+
+/*TABLE STYLES*/
+    #hor-minimalist-b {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    background: #fff;    
+    width: 880px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+    #hor-minimalist-b th {
+        font-size: 12px;
+        font-weight: normal;
+        color: #039;
+        padding: 10px 8px;
+        text-align:center;
+        /*border-bottom: 2px solid #6678b1;*/
+    }
+
+    #hor-minimalist-b td {
+        /*border-bottom: 1px solid #ccc;*/
+        color: #669;
+        padding: 6px 8px 0px 0px;
+        text-align:center;
+    }
+
+    #hor-minimalist-b td {
+        /*border-bottom: 1px solid #ccc;*/
+        color: #669;
+        padding: 6px 8px 0px 0px;
+        text-align:center;
+    }
+
+    #hor-minimalist-b tbody tr:hover td {
+        color: #009;
+    }
+    #hor-minimalist-b1 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    background: #fff;    
+    width: 880px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+    #hor-minimalist-b1 th {
+        font-size: 12px;
+        font-weight: normal;
+        color: #039;
+        padding: 10px 8px;
+        text-align:center;
+        /*border-bottom: 2px solid #6678b1;*/
+    }
+
+    #hor-minimalist-b1 td {
+        /*border-bottom: 1px solid #ccc;*/
+        color: #669;
+        padding: 6px 8px 0px 0px;
+        text-align:center;
+    }
+
+    #hor-minimalist-b1 tbody tr:hover td {
+        color: #009;
+    }
+        #hor-minimalist-b2 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    background: #fff;    
+    width: 880px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+    #hor-minimalist-b2 th {
+        font-size: 12px;
+        font-weight: normal;
+        color: #039;
+        padding: 10px 8px;
+        text-align:center;
+        /*border-bottom: 2px solid #6678b2;*/
+    }
+
+    #hor-minimalist-b2 td {
+        /*border-bottom: 1px solid #ccc;*/
+        color: #669;
+        padding: 6px 8px 0px 0px;
+        text-align:center;
+    }
+
+    #hor-minimalist-b2 tbody tr:hover td {
+        color: #009;
+    }
+        #hor-minimalist-b3 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    background: #fff;    
+    width: 880px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+    #hor-minimalist-b3 th {
+        font-size: 12px;
+        font-weight: normal;
+        color: #039;
+        padding: 10px 8px;
+        text-align:center;
+        /*border-bottom: 2px solid #6678b3;*/
+    }
+
+    #hor-minimalist-b3 td {
+        /*border-bottom: 1px solid #ccc;*/
+        color: #669;
+        padding: 6px 8px 0px 0px;
+        text-align:center;
+    }
+
+    #hor-minimalist-b3 tbody tr:hover td {
+        color: #009;
+    }
+    .auto-style1 {
+            width: 215px;
+        }
+        .auto-style2 {
+            width: 666px;
+        }
+        .auto-style3 {
+            width: 450px;
+        }
+        .auto-style4 {
+            width: 404px;
+        }
+        .auto-style5 {
+            width: 820px;
+        }
+        .auto-style6 {
+            width: 507px;
+        }
+        .auto-style7 {
+            width: 176px;
+        }
+
+        #formSectionAB .col-2 {
+     width: 45%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}/*FORM SECTION AB*/
+
+
+#formSectionAB .col-3 {
+     width: 30%;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+
+
+#formSectionAB label {
+
+}
