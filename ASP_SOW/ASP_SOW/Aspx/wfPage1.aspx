@@ -92,6 +92,7 @@
                          
                      <div class="col-Text100">
                         <asp:TextBox ID="txtDate" runat="server" CssClass="smallTextBox" Width="80px" />
+                         <input type="button" id="btnDate" onclick="TodaysDate();" value="Today's Date" />
                     </div>
 
                  

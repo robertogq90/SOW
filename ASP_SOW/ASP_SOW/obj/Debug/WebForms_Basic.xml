@@ -960,6 +960,177 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:ASP_SOW.wfPage1._rblTypeMother">
+<summary>
+rblTypeMother control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtNameMother">
+<summary>
+txtNameMother control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtMotherAddress">
+<summary>
+txtMotherAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtMotherPhone">
+<summary>
+txtMotherPhone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._rblTypeFather">
+<summary>
+rblTypeFather control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtFatherName">
+<summary>
+txtFatherName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtFatherAddress">
+<summary>
+txtFatherAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtFatherPhone">
+<summary>
+txtFatherPhone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtSiblings1">
+<summary>
+txtSiblings1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtDOB1">
+<summary>
+txtDOB1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtSiblings2">
+<summary>
+txtSiblings2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtDOB2">
+<summary>
+txtDOB2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtSiblings3">
+<summary>
+txtSiblings3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtDOB3">
+<summary>
+txtDOB3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtSiblings4">
+<summary>
+txtSiblings4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtDOB4">
+<summary>
+txtDOB4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtInterpretationProviderName">
+<summary>
+txtInterpretationProviderName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtInterpretationProviderAgency">
+<summary>
+txtInterpretationProviderAgency control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage1._txtInterpretationProviderPhone">
+<summary>
+txtInterpretationProviderPhone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:ASP_SOW.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.
