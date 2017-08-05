@@ -163,3 +163,4 @@ C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.vbproj.GenerateR
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.dll
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\WebForms_Basic.xml
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.pdb
+C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.vbprojResolveAssemblyReference.cache

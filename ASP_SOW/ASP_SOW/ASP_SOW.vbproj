@@ -225,6 +225,7 @@
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Aspx\Example.aspx" />
     <Content Include="Aspx\wfPage1.aspx" />
+    <Content Include="Aspx\wfPage2.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -412,6 +413,13 @@
     <Compile Include="Aspx\wfPage1.aspx.vb">
       <DependentUpon>wfPage1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aspx\wfPage2.aspx.designer.vb">
+      <DependentUpon>wfPage2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aspx\wfPage2.aspx.vb">
+      <DependentUpon>wfPage2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contact.aspx.designer.vb">
       <DependentUpon>Contact.aspx</DependentUpon>
