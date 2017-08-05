@@ -1221,6 +1221,420 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:ASP_SOW.wfPage2._rblOralGenitalsPatientByAssailant">
+<summary>
+rblOralGenitalsPatientByAssailant control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblOralGenitalsAssailantByPatient">
+<summary>
+rblOralGenitalsAssailantByPatient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPatientHistoryInformant">
+<summary>
+txtPatientHistoryInformant control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblOralAnusPatientByAssailant">
+<summary>
+rblOralAnusPatientByAssailant control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtRelationshipTopatient">
+<summary>
+txtRelationshipTopatient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblOralAnusAssailantByPatient">
+<summary>
+rblOralAnusAssailantByPatient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPresentinProblem">
+<summary>
+txtPresentinProblem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationPatientByAssailant">
+<summary>
+rblMasturbationPatientByAssailant control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationAssailantByPatient">
+<summary>
+rblMasturbationAssailantByPatient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtMasturbationOther">
+<summary>
+txtMasturbationOther control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationEjaculation">
+<summary>
+rblMasturbationEjaculation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationEjaculationType">
+<summary>
+rblMasturbationEjaculationType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtMasturbationEjaculationTypeOther">
+<summary>
+txtMasturbationEjaculationTypeOther control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationBirthControlMethod">
+<summary>
+rblMasturbationBirthControlMethod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationLubricant">
+<summary>
+rblMasturbationLubricant control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtMasturbationLubricantKind">
+<summary>
+txtMasturbationLubricantKind control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationLossOfConsciousness">
+<summary>
+rblMasturbationLossOfConsciousness control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationFondling">
+<summary>
+rblMasturbationFondling control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblMasturbationMenstrating">
+<summary>
+rblMasturbationMenstrating control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultIdentityAssailant1">
+<summary>
+txtPostAssaultIdentityAssailant1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultAge1">
+<summary>
+txtPostAssaultAge1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultSex1">
+<summary>
+txtPostAssaultSex1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRace1">
+<summary>
+txtPostAssaultRace1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRelationship1">
+<summary>
+txtPostAssaultRelationship1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultCondom1">
+<summary>
+txtPostAssaultCondom1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultIdentityAssailant2">
+<summary>
+txtPostAssaultIdentityAssailant2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultAge2">
+<summary>
+txtPostAssaultAge2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultSex2">
+<summary>
+txtPostAssaultSex2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRace2">
+<summary>
+txtPostAssaultRace2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRelationship2">
+<summary>
+txtPostAssaultRelationship2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultCondom2">
+<summary>
+txtPostAssaultCondom2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultIdentityAssailant3">
+<summary>
+txtPostAssaultIdentityAssailant3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultAge3">
+<summary>
+txtPostAssaultAge3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultSex3">
+<summary>
+txtPostAssaultSex3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRace3">
+<summary>
+txtPostAssaultRace3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultRelationship3">
+<summary>
+txtPostAssaultRelationship3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPostAssaultCondom3">
+<summary>
+txtPostAssaultCondom3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblHours">
+<summary>
+rblHours control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtDateAssault">
+<summary>
+txtDateAssault control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtTimeAssault">
+<summary>
+txtTimeAssault control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtLocationAssault">
+<summary>
+txtLocationAssault control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtOnset">
+<summary>
+txtOnset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtMostRecent">
+<summary>
+txtMostRecent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtNumAssailants">
+<summary>
+txtNumAssailants control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:ASP_SOW.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.

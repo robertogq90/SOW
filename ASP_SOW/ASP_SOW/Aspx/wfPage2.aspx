@@ -21,7 +21,7 @@
                         <label>PATIENT HISTORY: (patient's own words)</label>
                     </div>
                     <div class="col-Text400">
-                        <asp:TextBox ID="txtPatientHistory" runat="server" CssClass="smallTextBox" Width="400px" TextMode="MultiLine" Rows="20" Height="290px" />
+                        <asp:TextBox ID="txtPatientHistory" runat="server" CssClass="smallTextBox" Width="400px" TextMode="MultiLine" Rows="20" Height="280px" />
                     </div>
                 </div>
 
@@ -32,10 +32,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Penis</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblVaginalContactPenis" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -45,10 +45,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Finger/Hand</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblVaginalContactFinger" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -58,10 +58,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Foreign Object</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblVaginalContactObject" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -71,10 +71,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Describe the Object</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblVaginalContactObjectDescribe" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -90,10 +90,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Penis</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblAnalContactPenis" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -103,10 +103,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Finger/Hand</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblAnalContactFinger" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -116,10 +116,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Foreign Object</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblAnalContactObject" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -129,10 +129,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Describe the Object</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblAnalContactObjectDescribe" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -148,10 +148,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of patient by assailant</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblOralGenitalsPatientByAssailant" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -161,10 +161,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of patient by assailant</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblOralGenitalsAssailantByPatient" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -189,10 +189,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of patient by assailant</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblOralAnusPatientByAssailant" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -211,10 +211,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of patient by assailant</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblOralAnusAssailantByPatient" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -239,10 +239,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of patient by assailant</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationPatientByAssailant" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -252,10 +252,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Of assailant by patient</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationAssailantByPatient" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -274,10 +274,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Did ejaculation occur?</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationEjaculation" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -287,10 +287,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>if yes, indicate</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationEjaculationType" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Oral" Value="1" />
                             <asp:ListItem Text="Vag" Value="2" />
@@ -312,7 +312,7 @@
                     <%--<div class="col-Label125">
                         <label>Birth Control Method</label>
                     </div>--%>
-                    <div class="col-Radio400">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationBirthControlMethod" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Foam" Value="1" />
                             <asp:ListItem Text="Jelly" Value="2" />
@@ -322,10 +322,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Lubricant used</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationLubricant" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -344,10 +344,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Loss of Consciousness</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationLossOfConsciousness" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
@@ -379,10 +379,10 @@
                 </div>
 
                 <div class="formRowLeft">
-                    <div class="col-Label125">
+                    <div class="col-Label150">
                         <label>Menstrating?</label>
                     </div>
-                    <div class="col-Radio300">
+                    <div class="col-Radio250">
                         <asp:RadioButtonList ID="rblMasturbationMenstrating" runat="server" RepeatDirection="Horizontal" CssClass="chkboxList">
                             <asp:ListItem Text="Yes" Value="1" />
                             <asp:ListItem Text="No" Value="2" />
