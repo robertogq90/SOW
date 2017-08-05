@@ -1131,6 +1131,96 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:ASP_SOW.wfPage2._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._txtPatientHistory">
+<summary>
+txtPatientHistory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblVaginalContactPenis">
+<summary>
+rblVaginalContactPenis control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblVaginalContactFinger">
+<summary>
+rblVaginalContactFinger control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblVaginalContactObject">
+<summary>
+rblVaginalContactObject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblVaginalContactObjectDescribe">
+<summary>
+rblVaginalContactObjectDescribe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblAnalContactPenis">
+<summary>
+rblAnalContactPenis control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblAnalContactFinger">
+<summary>
+rblAnalContactFinger control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblAnalContactObject">
+<summary>
+rblAnalContactObject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage2._rblAnalContactObjectDescribe">
+<summary>
+rblAnalContactObjectDescribe control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:ASP_SOW.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.

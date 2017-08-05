@@ -164,6 +164,7 @@
                        
                      <div class="col-Text400">
                         <asp:TextBox ID="txtChildProtectiveServiceSignature" runat="server" CssClass="smallTextBox" Width="380px" />
+                         <input type="button" id="btnChildProtectiveServiceSignature" onclick="TodaysDate();" value="Today's Date" />
                     </div>
 
                     <div class="col-Label100">

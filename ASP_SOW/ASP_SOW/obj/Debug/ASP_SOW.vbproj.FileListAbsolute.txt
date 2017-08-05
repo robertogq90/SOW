@@ -158,9 +158,9 @@ C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\bin\Microsoft.Owin.Security.Google
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.vbprojResolveAssemblyReference.cache
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.Resources.resources
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.vbproj.GenerateResource.Cache
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.dll
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\WebForms_Basic.xml
 C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.pdb
+C:\Users\rjgarcia\Git\SOW\SOW\ASP_SOW\ASP_SOW\obj\Debug\ASP_SOW.vbprojResolveAssemblyReference.cache
