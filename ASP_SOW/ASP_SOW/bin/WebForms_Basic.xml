@@ -1635,6 +1635,87 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:ASP_SOW.wfPage3._rblSexualAssaultPriorReport">
+<summary>
+rblSexualAssaultPriorReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._cbMensusAssault">
+<summary>
+cbMensusAssault control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._cbUrinated">
+<summary>
+cbUrinated control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblSexualAssaultAfterReport">
+<summary>
+rblSexualAssaultAfterReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblWasItReported">
+<summary>
+rblWasItReported control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblSexBeforeReport">
+<summary>
+rblSexBeforeReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblSexAfterReport">
+<summary>
+rblSexAfterReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblBirthControlMethod">
+<summary>
+rblBirthControlMethod control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP_SOW.wfPage3._rblGPAB">
+<summary>
+rblGPAB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="T:ASP_SOW.My.MyWebExtension">
  <summary>
  Module used to define the properties that are available in the My Namespace for Web projects.
